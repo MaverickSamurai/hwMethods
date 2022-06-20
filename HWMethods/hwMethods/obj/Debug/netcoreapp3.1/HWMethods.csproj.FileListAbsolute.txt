@@ -1,0 +1,14 @@
+C:\Users\mirsamirba\Desktop\Homework\HWMethods\HWMethods\bin\Debug\netcoreapp3.1\HWMethods.exe
+C:\Users\mirsamirba\Desktop\Homework\HWMethods\HWMethods\bin\Debug\netcoreapp3.1\HWMethods.deps.json
+C:\Users\mirsamirba\Desktop\Homework\HWMethods\HWMethods\bin\Debug\netcoreapp3.1\HWMethods.runtimeconfig.json
+C:\Users\mirsamirba\Desktop\Homework\HWMethods\HWMethods\bin\Debug\netcoreapp3.1\HWMethods.runtimeconfig.dev.json
+C:\Users\mirsamirba\Desktop\Homework\HWMethods\HWMethods\bin\Debug\netcoreapp3.1\HWMethods.dll
+C:\Users\mirsamirba\Desktop\Homework\HWMethods\HWMethods\bin\Debug\netcoreapp3.1\HWMethods.pdb
+C:\Users\mirsamirba\Desktop\Homework\HWMethods\HWMethods\obj\Debug\netcoreapp3.1\HWMethods.csproj.AssemblyReference.cache
+C:\Users\mirsamirba\Desktop\Homework\HWMethods\HWMethods\obj\Debug\netcoreapp3.1\HWMethods.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mirsamirba\Desktop\Homework\HWMethods\HWMethods\obj\Debug\netcoreapp3.1\HWMethods.AssemblyInfoInputs.cache
+C:\Users\mirsamirba\Desktop\Homework\HWMethods\HWMethods\obj\Debug\netcoreapp3.1\HWMethods.AssemblyInfo.cs
+C:\Users\mirsamirba\Desktop\Homework\HWMethods\HWMethods\obj\Debug\netcoreapp3.1\HWMethods.csproj.CoreCompileInputs.cache
+C:\Users\mirsamirba\Desktop\Homework\HWMethods\HWMethods\obj\Debug\netcoreapp3.1\HWMethods.dll
+C:\Users\mirsamirba\Desktop\Homework\HWMethods\HWMethods\obj\Debug\netcoreapp3.1\HWMethods.pdb
+C:\Users\mirsamirba\Desktop\Homework\HWMethods\HWMethods\obj\Debug\netcoreapp3.1\HWMethods.genruntimeconfig.cache
